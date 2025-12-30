@@ -87,3 +87,21 @@
 <a href="https://instagram.com/nobir.hoshen.sohag" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a> &nbsp;
 <a href="https://twitter.com/nobirhoshen007" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
+
+
+## 🧠 Fun Facts & Interests
+
+```yaml
+- 💻 I write code like poetry – clean, expressive, and efficient.
+- 🎯 Focused on becoming a Senior Full-Stack Developer.
+- 🤖 Obsessed with performance optimization & best practices.
+- 🔧 I believe in: "Consistency > Motivation"
+- ☕ Code + Coffee = Perfect Combo
+```
+
+
+
+
+<p align="center">
+  ⭐️ *If you like my work, consider giving it a star or connecting with me!* ⭐️
+</p>
