@@ -1,3 +1,7 @@
+<!--- banner --->
+<img src="./nobir.png" alt="Bannar">
+
+
 <h1 align="center">Hey 👋, It's Sohag</h1>
 <h3 align="center">Passionate about MERN Stack Web Developer.</h3>
 
