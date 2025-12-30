@@ -18,6 +18,31 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nobirhoshensohag&label=Profile%20views&color=0e75b6&style=flat" alt="nobirhoshensohag" /> </p>
 
 
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/> </p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Focus-Full%20Stack-0ea5e9?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Currently_Learning-Next.js-blue?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Bangladesh-199900?style=for-the-badge"></a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+🎯 A passionate **MERN Stack Developer** focused on writing clean, efficient, and scalable code. I love solving real-world problems and bringing ideas to life with full-stack web development.
+
+💡 **What I'm currently doing:**
+- 🔍 Exploring **Next.js & performance optimization**
+- 🚀 Building dynamic full-stack projects
+- 🎨 Enhancing UI/UX using **Tailwind CSS & Figma**
+- 📦 Experimenting with **Firebase functions**
+
+📫 **Reach me at:** `nobirhoshensohag708@gmail.com`
+
+---
+
+
 ## 🎨 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
