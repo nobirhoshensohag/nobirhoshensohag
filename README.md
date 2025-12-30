@@ -11,6 +11,8 @@
 - 🌱 I’m currently working with **React, Node.js, Express, MongoDB**
 - 🔭 I’m learning now **Next.js, TypeScript**
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nobirhoshensohag&label=Profile%20views&color=0e75b6&style=flat" alt="nobirhoshensohag" /> </p>
+
 
 ## 🎨 Frontend
 <p align="left">
