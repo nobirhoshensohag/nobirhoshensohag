@@ -80,6 +80,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobirhoshensohag&theme=react-dark" />
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nobirhoshensohag" target="blank"><img src="https://skillicons.dev/icons?i=devto" /></a> &nbsp;
