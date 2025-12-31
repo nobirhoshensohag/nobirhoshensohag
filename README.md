@@ -82,9 +82,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobirhoshensohag&theme=react-dark" />
-</p>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nobirhoshensohag&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd" 
+  width="100%"
+/>
+
 
 
 
