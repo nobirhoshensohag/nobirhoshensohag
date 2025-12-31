@@ -2,8 +2,8 @@
 <img src="./banner (2).png" alt="Bannar">
 
 
-<h1 align="center">Hey 👋, It's Sohag</h1>
-<h3 align="center">Passionate about MERN Stack Web Developer.</h3>
+<h1 align="center">Hey 👋, I am Nobir Hoshen Sohag</h1>
+<h3 align="center">Passionate about Frontent Web Developer.</h3>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
