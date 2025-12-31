@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./nobir.png" alt="Bannar">
+<img src="./banner (2).png" alt="Bannar">
 
 
 <h1 align="center">Hey 👋, It's Sohag</h1>
