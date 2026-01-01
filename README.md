@@ -96,6 +96,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobirhoshensohag&theme=tokyo-night" />
 </p>
 
+<div align="center">
+
+![snake gif](https://github.com/nobirhoshensohag/nobirhoshensohag/blob/output/github-snake-dark.svg)
+
+</div>
+
 
 
 
@@ -104,6 +110,7 @@
 <a href="https://dev.to/nobirhoshensohag" target="blank"><img src="https://skillicons.dev/icons?i=devto" /></a> &nbsp;
 <a href="nobirhoshensohag708@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a> &nbsp;
 <a href="https://instagram.com/nobir.hoshen.sohag" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/nobir-hoshen-sohag" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp;
 <a href="https://twitter.com/nobirhoshen007" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
