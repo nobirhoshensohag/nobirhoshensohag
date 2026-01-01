@@ -87,6 +87,15 @@
   width="100%"
 />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nobirhoshensohag&show_icons=true&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nobirhoshensohag&theme=react" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobirhoshensohag&theme=tokyo-night" />
+</p>
+
 
 
 
