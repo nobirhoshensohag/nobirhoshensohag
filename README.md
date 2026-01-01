@@ -82,6 +82,11 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nobirhoshensohag&show_icons=true&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nobirhoshensohag&theme=react" />
+</p>
+
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=nobirhoshensohag&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd" 
   width="100%"
